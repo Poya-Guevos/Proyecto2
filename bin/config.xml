@@ -10,7 +10,7 @@
   </renderer>
 
   <window>
-    <resolution width="1280" height="720" scale="1"/>
+    <resolution width="1920" height="1080" scale="1"/>
     <fullscreen value="false"/>
     <borderless value="false"/>
     <resizable value="false"/>
@@ -24,7 +24,7 @@
   </audio>
 
   <scene>
-    <map path="Assets/Maps/Level-1/" name="Level-1-map.tmx"/>
+    <map path="Assets/Maps/96/" name="test-96.tmx"/>
 	  <camera x="-530" y="-1949" />
     <player x="672" y="2032" texturepath="Assets/Textures/Cat-1-Walk.png"/>
 	  <enemies>
